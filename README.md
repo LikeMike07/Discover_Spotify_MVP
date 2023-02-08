@@ -2,6 +2,8 @@
 The goal of Dicover Spotify is to create a user experience that allows for ease of dicovering and listening to new music! Using the Spotify API the app is able to serve tailored results depending on the users listening habits.
 
 ## Login Using Spotify
+Using Spotify's authentication method users can sign in using their spotify credentials. The user is directed to Spotify's sign in page and after a successful login the user is redirected back to Discover Spotify.
+
 ![logingif](https://user-images.githubusercontent.com/102435134/217626279-c2d6e738-8965-46ed-85e2-c9e90ee545e4.gif)
 
 ## Dashboard
